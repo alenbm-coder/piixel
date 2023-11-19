@@ -81,32 +81,41 @@
   <!-- Categorias -->
   <main>
     <div class="container px-4 py-5" id="featured-3">
-      <h2 class="pb-2 border-bottom">Categorias</h2>
+        <h2 class="pb-2 border-bottom">Categorias</h2>
 
-      <div class = "animate__animated animate__fadeIn">
-      <div class="row g-4 py-5 row-cols-1 row-cols-lg-3">
+        <div class = "animate__animated animate__fadeIn">
+            <div class="row g-4 py-5 row-cols-1 row-cols-lg-3">
 
-        <div style="text-align:right">
+            <div style="text-align:center; text-decoration: none;">
           <a class="link" href="paginas/producto_cliente/prod_cliente.php" class="icon-link">           
-              <img class="img-fluid" style="width: 20%; display: block; margin-left: auto; margin-right: 30px; margin-bottom: 20px;" src="./imagenes/iconos/cpu-fill.svg" alt="PC">
+              <img class="img-fluid" style="width: 20%; display: block; margin-left: auto; margin-right: auto; margin-bottom: 20px;" src="./imagenes/iconos/cpu-fill.svg" alt="PC">
             <h2 >Componentes</h2><br>
             <p>Armar o renovar tu viejo pc con componentes de calidad es necesario para obtener el máximo rendimiento, en Piixel encuentras de forma fácil en gran catálogo el componente o partes de pc al mejor precio.</p>
           </a>
         </div>
         
         
-    <div class="right-align">
-    <a class="link" href="paginas/producto_cliente/producto.php" class="icon-link">
-    <img class="img-fluid" style="width: 20%; display: block; margin-left: auto; margin-right: 30px; margin-bottom: 20px;" src="./imagenes/iconos/phone-fill.svg" alt="PC">        
-      <h2>Productos</h2><br>
-      <p>Piixel es la tienda de Computadores Portátiles, 2 en 1 y cuenta con PC Corporativos, PC para juegos y soluciones en PC empresariales. En nuestra tienda Online puedes comprar tu P, a precios increíbles</p>
-    </a>
-  </div>
+        <div style="text-align:center;">
+          <a class="link" href="..." class="icon-link">
+            <img class="img-fluid" style="width: 20%; display: block; margin-left: auto; margin-right: auto; margin-bottom: 20px;" src="./imagenes/iconos/phone-fill.svg" alt="PC">          
+            <h2>Productos</h2><br>
+            <p>Piixel es la tienda de Computadores Portátiles, 2 en 1 y PC Corporativo, PC para juegos y soluciones en pc empresariales. En nuestra tienda Online puedes comprar tu PC corporativo, a precios increíbles</p>
+          </a>
+        </div>
         
-         
         
-      </div>
-      </div>
+        
+        <div class="feature col" style="text-align:center;">          
+          <a class="link" href="..." class="icon-link">
+            <img class="img-fluid" style="width: 20%; display: block; margin-left: auto; margin-right: auto; margin-bottom: 20px;" src="./imagenes/iconos/bug-fill.svg" alt="PC">          
+            <h2>Software</h2><br>
+            <p>Usa siempre Software original, en Piixel encuentras claves OEM a muy bajos cosastos para tu Windows paquete de offoce o videojuegos, encuentralas de forma segura y 100% confiable</p>
+          </a>
+        </div>
+              
+              
+            </div>
+        </div>
     </div>
 
     <div>
