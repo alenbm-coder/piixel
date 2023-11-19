@@ -38,16 +38,12 @@
               Cuenta
             </a>
             <ul class="dropdown-menu" aria-labelledby="navbarDropdown">
-              <li><a class="dropdown-item" href="../../paginas/Inicio_sesion/login.php"><img src="../../imagenes/iconos/person-fill.svg" alt="" width="30" height="24" class="d-inline-block align-text-top">Iniciar sesion</a></li>
-              <li><a class="dropdown-item" href="../registro_cliente/reg_cliente.php"><img src="../../imagenes/iconos/person-plus-fill.svg" alt="" width="30" height="24" class="d-inline-block align-text-top">Registrarse</a></li>
+
               <li>
                 <hr class="dropdown-divider">
               </li>
-              <li><a class="dropdown-item" href="#"><img src="../../imagenes/iconos/box-arrow-right.svg" alt="" width="30" height="24" class="d-inline-block align-text-top">Salir</a></li>
+              <li><a class="dropdown-item" href="../../index.php"><img src="../../imagenes/iconos/box-arrow-right.svg" alt="" width="30" height="24" class="d-inline-block align-text-top">Salir</a></li>
             </ul>
-          </li>
-          <li class="nav-item">
-            <a class="nav-link active" aria-current="page" href="../carrito/carrito.php"><img src="../../imagenes/iconos/cart4.svg" alt="" width="30" height="24" class="d-inline-block align-text-top">Carrito</a>
           </li>
         </ul>
 
@@ -55,19 +51,19 @@
     </div>
   </nav>
 
-  <h1 style="text-align: center;">Encuentra los mejores compitadores y accesorios aqui: </h1>
+
  
  
   <div class="categorias">
     
     <div class="card">
       <div class="card-header">
-      PRIME Z690-P
+      Pin Microsoft Office 365
       </div>
       <div class="card-body">
-        <p>ATX con PCIe® 5.0, DDR5, tres puertos M.2, 14 + 1 fases de poder DrMOS, </p>
-        <img src="../../imagenes/categorias/categoria1.jpg" class="img-fluid" alt="Categorias">
-        <h5>300.000$</h5>
+        <p>Familia para 6 Usuarios / 15 Meses</p>
+        <img src="../../imagenes/categorias/pin1.jpeg" class="img-fluid" alt="Categorias">
+        <h5>130.000$</h5>
         <a href="../carrito/carrito.php" class="btn btn-outline-dark">
           <p class="textico" id ="agregar_al_carrito">Añadir al carrito</p>
         </a>
@@ -77,12 +73,12 @@
 
     <div class="card">
       <div class="card-header">
-      Disco Externo
+      Pin Microsoft Office
       </div>
       <div class="card-body">
-        <p>1TB Toshiba Canvio Basics USB 3.0 HDTB410XK3AA    </p>
-        <img src="../../imagenes/categorias/comp1.jpeg" class="img-fluid" alt="Categorias">
-        <h5>$220,000</h5>
+        <p>Personal Para 1 Usuario / 12 Meses</p>
+        <img src="../../imagenes/categorias/pin2.jpeg" class="img-fluid" alt="Categorias">
+        <h5>145.000$</h5>
         <a href="../carrito/carrito.php" class="btn btn-outline-dark">
           <p class="textico"id="agregar_al_carrito">Añadir al carrito</p>
         </a>
@@ -91,12 +87,12 @@
     
     <div class="card">
       <div class="card-header">
-      Board Asrock
+      Antivirus McAfee Total
       </div>
       <div class="card-body" >
-        <p>H370M-HDV Intel 8va 9na Gen Socket 1151  </p>
-        <img src="../../imagenes/categorias/comp2.jpeg" class="img-fluid" alt="Categorias">
-        <h5>100.000$</h5>
+        <p>Protection 10 Dispositivos</p>
+        <img src="../../imagenes/categorias/pin3.jpeg" class="img-fluid" alt="Categorias">
+        <h5>120.000$</h5>
         <a href="post" class="btn btn-outline-dark">
           <p class="textico">Añadir al carrito</p>
         </a>
@@ -105,11 +101,11 @@
 
     <div class="card">
       <div class="card-header">
-      DISCO SOLIDO
+      PIN Antivirus
       </div>
       <div class="card-body">
-        <p>M.2 256GB GIGABYTE NVME 2280 GSM2NE3256GNTD  </p>
-        <img src="../../imagenes/categorias/comp3.jpeg" class="img-fluid" alt="Categorias">
+        <p>Norton 360 Deluxe 5D</p>
+        <img src="../../imagenes/categorias/pin4.jpeg" class="img-fluid" alt="Categorias">
         <h5>100.000$</h5>
         <a href="../carrito/carrito.php" class="btn btn-outline-dark">
           <p class="textico">Añadir al carrito</p>
