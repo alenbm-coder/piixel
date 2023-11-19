@@ -172,6 +172,8 @@ if(isset($_GET['cerrar_sesion'])) {
     </div>
 
 
+    
+
 
   <!-- Pie de pagina -->
 

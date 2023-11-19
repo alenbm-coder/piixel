@@ -122,28 +122,6 @@
             </div>
             </div>               
 
-          <div class="row mt-2">
-
-            <div class="col-md-12">
-              <canvas id="graficoBar"></canvas> 
-            </div>
-          </div>               
-
-          <div class="row mt-2">
-            <div class="col-md-12">
-              <canvas id="graficoLine"></canvas> 
-            </div>
-            </div>               
-
-          <div class="row mt-2">
-            <div class="col-md-12">
-
-              <canvas id="graficoDoughnut"></canvas> 
-              
-            </div>
-          </div>               
-
-
         </div>
 
         
