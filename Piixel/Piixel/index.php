@@ -96,7 +96,7 @@
         
         
         <div style="text-align:center;">
-          <a class="link" href="..." class="icon-link">
+          <a class="link" href="paginas/producto_cliente/producto.php" class="icon-link">
             <img class="img-fluid" style="width: 20%; display: block; margin-left: auto; margin-right: auto; margin-bottom: 20px;" src="./imagenes/iconos/phone-fill.svg" alt="PC">          
             <h2>Productos</h2><br>
             <p>Piixel es la tienda de Computadores Portátiles, 2 en 1 y PC Corporativo, PC para juegos y soluciones en pc empresariales. En nuestra tienda Online puedes comprar tu PC corporativo, a precios increíbles</p>
@@ -106,7 +106,7 @@
         
         
         <div class="feature col" style="text-align:center;">          
-          <a class="link" href="..." class="icon-link">
+          <a class="link" href="paginas/producto_cliente/software.php" class="icon-link">
             <img class="img-fluid" style="width: 20%; display: block; margin-left: auto; margin-right: auto; margin-bottom: 20px;" src="./imagenes/iconos/bug-fill.svg" alt="PC">          
             <h2>Software</h2><br>
             <p>Usa siempre Software original, en Piixel encuentras claves OEM a muy bajos cosastos para tu Windows paquete de offoce o videojuegos, encuentralas de forma segura y 100% confiable</p>

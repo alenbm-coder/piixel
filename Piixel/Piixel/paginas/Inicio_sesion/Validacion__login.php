@@ -145,12 +145,12 @@ if(isset($_GET['cerrar_sesion'])) {
   <!-- Categorias -->
   <main>
     <div class="container px-4 py-5" id="featured-3">
-      <h2 class="pb-2 border-bottom">Categorias</h2>
+        <h2 class="pb-2 border-bottom">Categorias</h2>
 
-      <div class = "animate__animated animate__fadeIn">
-      <div class="row g-4 py-5 row-cols-1 row-cols-lg-3">
+        <div class = "animate__animated animate__fadeIn">
+            <div class="row g-4 py-5 row-cols-1 row-cols-lg-3">
 
-        <div style="text-align:center; text-decoration: none;">
+            <div style="text-align:center; text-decoration: none;">
           <a class="link" href="../producto_cliente/prod_cliente.php" class="icon-link">           
               <img class="img-fluid" style="width: 20%; display: block; margin-left: auto; margin-right: auto; margin-bottom: 20px;" src="../../imagenes/iconos/cpu-fill.svg" alt="PC">
             <h2 >Componentes</h2><br>
@@ -163,16 +163,27 @@ if(isset($_GET['cerrar_sesion'])) {
           <a class="link" href="../producto_cliente/producto.php" class="icon-link">
             <img class="img-fluid" style="width: 20%; display: block; margin-left: auto; margin-right: auto; margin-bottom: 20px;" src="../../imagenes/iconos/phone-fill.svg" alt="PC">          
             <h2>Productos</h2><br>
-            <p>Piixel es la tienda de Computadores Portátiles, 2 en 1 y PC Corporativo, PC para juegos y soluciones en pc empresariales. En nuestra tienda Online puedes comprar tu PC a precios increíbles</p>
+            <p>Piixel es la tienda de Computadores Portátiles, 2 en 1 y PC Corporativo, PC para juegos y soluciones en pc empresariales. En nuestra tienda Online puedes comprar tu PC corporativo, a precios increíbles</p>
           </a>
         </div>
         
-      </div>
-      </div>
+        
+        
+        <div class="feature col" style="text-align:center;">          
+          <a class="link" href="../producto_cliente/software.php" class="icon-link">
+            <img class="img-fluid" style="width: 20%; display: block; margin-left: auto; margin-right: auto; margin-bottom: 20px;" src="../../imagenes/iconos/bug-fill.svg" alt="PC">          
+            <h2>Software</h2><br>
+            <p>Usa siempre Software original, en Piixel encuentras claves OEM a muy bajos cosastos para tu Windows paquete de offoce o videojuegos, encuentralas de forma segura y 100% confiable</p>
+          </a>
+        </div>
+              
+              
+            </div>
+        </div>
     </div>
 
+   
 
-    
 
 
   <!-- Pie de pagina -->
@@ -181,15 +192,15 @@ if(isset($_GET['cerrar_sesion'])) {
     <footer class="d-flex flex-wrap justify-content-between align-items-center py-3 my-4 border-top">
       <div class="col-md-4 d-flex align-items-center">
         <a href="https://getbootstrap.com" target="_blank" class="mb-3 me-2 mb-md-0 text-muted text-decoration-none lh-1">
-          <img class="bi" width="30" height="24" src="../../imagenes/iconos/bootstrap-fill.svg" alt="bootstrap">
+          <img class="bi" width="30" height="24" src="./imagenes/iconos/bootstrap-fill.svg" alt="bootstrap">
         </a>
         <span class="text-muted">©Piixel 2023 Company, Inc</span>
       </div>
       <div class="container-fluid" style="display:flex; justify-content:flex-end; ">
         <ul class="nav col-md-4 justify-content-end list-unstyled d-flex">
-          <li class="ms-3"><a class="text-muted" ><img class="bi" width="30" height="24" src="../../imagenes/iconos/instagram.svg" alt="instagram"></a></li>
-          <li class="ms-3"><a class="text-muted" ><img class="bi" width="30" height="24" src="../../imagenes/iconos/facebook.svg" alt="facebook"></a></li>
-          <li class="ms-3"><a class="text-muted" ><img class="bi" width="30" height="24" src="../../imagenes/iconos/whatsapp.svg" alt="whatsapp"></a></li>
+          <li class="ms-3"><a class="text-muted" href="#"><img class="bi" width="30" height="24" src="../../imagenes/iconos/instagram.svg" alt="instagram"></a></li>
+          <li class="ms-3"><a class="text-muted" href="#"><img class="bi" width="30" height="24" src="../../imagenes/iconos/facebook.svg" alt="facebook"></a></li>
+          <li class="ms-3"><a class="text-muted" href="#"><img class="bi" width="30" height="24" src="../../imagenes/iconos/whatsapp.svg" alt="whatsapp"></a></li>
         </ul>
       </div>
     </footer>
@@ -197,4 +208,3 @@ if(isset($_GET['cerrar_sesion'])) {
 </body>
 
 </html>
-
